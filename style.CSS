@@ -1,0 +1,31 @@
+.cabeçcalho{background-color: gray;
+padding: 20px;}
+
+nav{position: absolute;
+     top: 110px;
+    right: 0;}
+
+nav li{display: inline;
+margin: 0 0 0 15px;}
+
+nav a{text-transform: uppercase;
+color: black;
+font-weight: bold;
+font-size: 22px;
+text-decoration: none;}
+
+.caixa{position: relative;
+         width: 940px;
+        margin: 0 auto;}
+
+.produtos li{
+
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;}
+
+.produtos h2 {
+    font-size: 30px;
+
+    font-weight: bold;}
