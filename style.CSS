@@ -1,4 +1,4 @@
-.cabeçcalho{background-color: gray;
+.cabeçalho{background-color: gray;
 padding: 20px;}
 
 nav{position: absolute;
@@ -16,14 +16,19 @@ text-decoration: none;}
 
 .caixa{position: relative;
          width: 940px;
-        margin: 0 auto;}
+        margin: 0 auto;
+        padding: 50px 0; 
+    }
+        
 
 .produtos li{
 
     display: inline-block;
     text-align: center;
     width: 30%;
-    vertical-align: top;}
+    vertical-align: top;
+    background ;
+}
 
 .produtos h2 {
     font-size: 30px;
